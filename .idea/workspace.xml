@@ -18,8 +18,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fonts" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\zhuaiballl.github.io\fonts" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -32,7 +37,9 @@
       <workItem from="1602815441270" duration="3843000" />
       <workItem from="1602828036390" duration="7616000" />
       <workItem from="1602919018523" duration="4682000" />
-      <workItem from="1602923778230" duration="1770000" />
+      <workItem from="1602923778230" duration="2242000" />
+      <workItem from="1603154904184" duration="594000" />
+      <workItem from="1603414180076" duration="5094000" />
     </task>
     <servers />
   </component>
@@ -44,6 +51,10 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="725" y="340" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1602828422321" />
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1603414631268">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1603414631268" />
     <state x="1020" y="246" width="596" height="804" key="find.popup" timestamp="1602924223371">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
