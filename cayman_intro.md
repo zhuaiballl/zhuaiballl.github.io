@@ -1,5 +1,7 @@
+---
 layout: default
-title: "Jekyll Reference"
+title: "Jekyll intro"
+permalink: /Jekyll/
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
