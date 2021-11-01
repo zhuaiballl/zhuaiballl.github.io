@@ -6,7 +6,6 @@ title: "zhuaiballl"
 ## Hi there 👋 I'm zhuaiballl
 
 - 🔭 I’m currently working on blockchain development
-- 🌱 I’m currently learning cryptography
 - 🎓 I've Graduated from Beijing Normal University
 - 🏫 I'm Studying at Shandong University
 
