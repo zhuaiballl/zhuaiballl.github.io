@@ -18,6 +18,11 @@ title: "zhuaiballl"
 - Blockchain + IoT
 - Blockchain-based File Systems
 
+### Decentralized Storage Network
+
+- Proof of Storage
+- Data Provenance
+
 ### Biological Engineering
 
 - Applications of Mantis Shrimps
