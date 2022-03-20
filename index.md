@@ -5,7 +5,7 @@ title: "zhuaiballl"
 
 ## Hi there 👋 I'm zhuaiballl
 
-- 🔭 I’m currently working on blockchain development
+- 🔭 I’m currently working on blockchain research & development
 - 🎓 I've Graduated from Beijing Normal University
 - 🏫 I'm Studying at Shandong University
 
@@ -44,4 +44,4 @@ title: "zhuaiballl"
 
 ---
 ## 📧 Contact Me:
-ghc@mail.bnu.edu.cn
+ghc@mail.sdu.edu.cn
