@@ -34,6 +34,8 @@ title: "zhuaiballl"
 
 [ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
 
+![Project Euler](https://projecteuler.net/profile/zhuaiballl.png)
+
 ---
 ## 📊 GitHub Stats:
 ![zhuaiballl github stats](https://github-readme-stats.vercel.app/api?username=zhuaiballl&theme=radical&show_icons=true&count_private=true)
