@@ -29,6 +29,13 @@ title: "zhuaiballl"
 - Fish-touching Theory
 
 ---
+## Selected Publications
+
+### [FileDAG: A Multi-Version Decentralized Storage Network Built on DAG-based Blockchain](https://ieeexplore.ieee.org/document/10159425)
+
+<u>Hechuan Guo</u>, Minghui Xu*, Jiahao Zhang, Chunchi Liu, Dongxiao Yu, Schahram Dustdar, Xiuzhen Cheng
+
+---
 ## 🏆 Contest Experience
 [Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl)
 
