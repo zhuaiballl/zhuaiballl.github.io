@@ -31,12 +31,35 @@ title: "zhuaiballl"
 ---
 ## Selected Publications
 
-### [FileDAG: A Multi-Version Decentralized Storage Network Built on DAG-based Blockchain](https://ieeexplore.ieee.org/document/10159425)
+### 2024
 
-<u>Hechuan Guo</u>, Minghui Xu*, Jiahao Zhang, Chunchi Liu, Dongxiao Yu, Schahram Dustdar, Xiuzhen Cheng
+- [FileDES: A Secure, Scalable and Succinct Blockchain-based Decentralized Encrypted Storage Network]()  
+Minghui Xu, Jiahao Zhang, <u>Hechuan Guo</u>, Xiuzhen Cheng, Dongxiao Yu, Qin Hu, Yijun Li, Yipu Wu  
+IEEE International Conference on Computer Communications (INFOCOM), Vancouver, Canada, 2024/05
+
+### 2023
+
+- [TBAC: A Tokoin-based Accountable Access Control Scheme for the Internet of Things](https://ieeexplore.ieee.org/abstract/document/10255286)  
+Chunchi Liu, Minghui Xu, <u>Hechuan Guo</u>, Xiuzhen Cheng, Yinhao Xiao, Dongxiao Yu, Bei Gong, Arkady Yerukhimovich, Shengling Wang, Weifeng Lyu  
+IEEE Transactions on Mobile Computing, 2023/09
+
+- [FileDAG: A Multi-Version Decentralized Storage Network Built on DAG-based Blockchain](https://ieeexplore.ieee.org/document/10159425)  
+<u>Hechuan Guo</u>, Minghui Xu, Jiahao Zhang, Chunchi Liu, Dongxiao Yu, Schahram Dustdar, Xiuzhen Cheng  
+IEEE Transactions on Computers, 2023/06
+
+### 2022
+
+- [Extending On-chain Trust to Off-chain--Trustworthy Blockchain Data Collection using Trusted Execution Environment (TEE)](https://ieeexplore.ieee.org/abstract/document/9705115)
+Chunchi Liu, <u>Hechuan Guo</u>, Minghui Xu, Shengling Wang, Dongxiao Yu, Jiguo Yu, Xiuzhen Cheng  
+IEEE Transactions on Computers, 2022/02
 
 ---
-## 🏆 Contest Experience
+## 🏆 Contest Experience & Prizes
+
+- 2023.12 Third prize in the 2nd CCF & ATEC College Student Blockchain Security and Innovative Application Contest
+
+- 2022.07 My demo project "Git with Filecoin" won the second prize in Filecoin China Hackathon. [[Twitter](https://x.com/Filecoin/status/1554491609668100098?s=20)]
+
 [Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl)
 
 [ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
