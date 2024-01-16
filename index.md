@@ -60,9 +60,9 @@ IEEE Transactions on Computers, 2022/02
 
 - 2022.07 My demo project "Git with Filecoin" won the second prize in Filecoin China Hackathon. [[Twitter](https://x.com/Filecoin/status/1554491609668100098?s=20)]
 
-[Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl)
+[Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl) 
 
-[ICPC](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
+[ICPC (ICPC World Finalist&Regional Champion)](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
 
 ![Project Euler](https://projecteuler.net/profile/zhuaiballl.png)
 
