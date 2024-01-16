@@ -62,9 +62,7 @@ IEEE Transactions on Computers, 2022/02
 
 [Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl) 
 
-[ICPC (ICPC World Finalist&Regional Champion)](https://icpc.global/ICPCID/2E9RAMPG2O1V) | CCPC | [Codeforces](http://codeforces.com/profile/zhuaiballl)
-
-![Project Euler](https://projecteuler.net/profile/zhuaiballl.png)
+[ICPC **(ICPC World Finalist&Regional Champion)**](https://icpc.global/ICPCID/2E9RAMPG2O1V) | [CCPC](https://ccpc.io/post/92)
 
 ---
 ## 📊 GitHub Stats:
