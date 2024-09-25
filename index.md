@@ -5,8 +5,9 @@ title: "zhuaiballl"
 
 ## Hi there 👋 I'm zhuaiballl
 
-- 🔭 I’m currently working on blockchain research & development at Shandong University
+- 🔭 I’m currently working on blockchain research & development
 - 🎓 I've Graduated from Shandong University
+- 🍚 I'm serving as a postdoc at Shandong University
 
 ---
 ## Research Interests
@@ -32,9 +33,13 @@ title: "zhuaiballl"
 
 ### 2024
 
-- [FileDES: A Secure, Scalable and Succinct Blockchain-based Decentralized Encrypted Storage Network]()  
+- [FileDES: A Secure, Scalable and Succinct Blockchain-based Decentralized Encrypted Storage Network](https://ieeexplore.ieee.org/document/10621113)  
 Minghui Xu, Jiahao Zhang, <u>Hechuan Guo</u>, Xiuzhen Cheng, Dongxiao Yu, Qin Hu, Yijun Li, Yipu Wu  
 IEEE International Conference on Computer Communications (INFOCOM), Vancouver, Canada, 2024/05
+
+- [BFT-DSN: A Byzantine Fault Tolerant Decentralized Storage Network](https://ieeexplore.ieee.org/abstract/document/10436433)
+<u>Hechuan Guo</u>, Minghui Xu, Jiahao Zhang, Chunchi Liu, Rajiv Ranjan, Dongxiao Yu, Xiuzhen Cheng
+IEEE Transactions on Computers, 2024/05
 
 ### 2023
 
