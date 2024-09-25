@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "zhuaiballl"
+title: "Hechuan Guo"
 ---
 
-## Hi there 👋 I'm zhuaiballl
+## Hi there 👋 I'm Hechuan Guo, aka zhuaiballl
 
 - 🔭 I’m currently working on blockchain research & development
 - 🎓 I've Graduated from Shandong University
