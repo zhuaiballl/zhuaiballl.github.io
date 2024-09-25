@@ -33,6 +33,10 @@ title: "zhuaiballl"
 
 ### 2024
 
+- [SoK: Decentralized storage network](https://www.sciencedirect.com/science/article/pii/S2667295224000424)
+Chuanlei Li, Minghui Xu, Jiahao Zhang, <u>Hechuan Guo</u>, Xiuzhen Cheng
+High-Confidence Computing, 2024/09
+
 - [FileDES: A Secure, Scalable and Succinct Blockchain-based Decentralized Encrypted Storage Network](https://ieeexplore.ieee.org/document/10621113)  
 Minghui Xu, Jiahao Zhang, <u>Hechuan Guo</u>, Xiuzhen Cheng, Dongxiao Yu, Qin Hu, Yijun Li, Yipu Wu  
 IEEE International Conference on Computer Communications (INFOCOM), Vancouver, Canada, 2024/05
