@@ -23,10 +23,9 @@ title: "Hechuan Guo"
 - Proof of Storage
 - Data Provenance
 
-### Biological Engineering
+### LLM Security
 
-- Applications of Mantis Shrimps
-- Fish-touching Theory
+- MCP Security
 
 ---
 ## Selected Publications
