@@ -30,13 +30,23 @@ title: "Hechuan Guo"
 ---
 ## Selected Publications
 
+### 2026
+
+- [PIR-DSN: A Decentralized Storage Network Supporting Private Information Retrieval](https://arxiv.org/pdf/2512.07189)
+    - Jiahao Zhang, Minghui Xu*, <u>Hechuan Guo</u>, Xiuzhen Cheng
+    - IEEE International Conference on Computer Communications (INFOCOM), Tokyo, Japan, 2026/05
+
 ### 2025
 
-- [EC-Chain: Cost-Effective Storage Solution for Permissionless Blockchains]()
+- [EC-Chain: Cost-Effective Storage Solution for Permissionless Blockchains](https://ieeexplore.ieee.org/abstract/document/11044729)
     - Minghui Xu, <u>Hechuan Guo*</u>, Ye Cheng, Chunchi Liu, Dongxiao Yu, Xiuzhen Cheng
-    - IEEE International Conference on Computer Communications (INFOCOM), 2025
+    - IEEE International Conference on Computer Communications (INFOCOM), London, United Kingdom, 2025/05
 
 ### 2024
+
+- [DataSafe: Copyright Protection with PUF Watermarking and Blockchain Tracing](https://link.springer.com/chapter/10.1007/978-981-97-9412-6_24)
+    - Xiaolong Xue, Guangyong Shang, Zhen Ma, Minghui Xu, <u>Hechuan Guo</u>, Kun Li, Xiuzhen Cheng
+  - High-Confidence Computing, 2024/11
 
 - [SoK: Decentralized storage network](https://www.sciencedirect.com/science/article/pii/S2667295224000424)
     - Chuanlei Li, Minghui Xu, Jiahao Zhang, <u>Hechuan Guo</u>, Xiuzhen Cheng
