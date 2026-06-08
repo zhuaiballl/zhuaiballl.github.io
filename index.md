@@ -32,6 +32,10 @@ title: "Hechuan Guo"
 
 ### 2026
 
+- [What breaks embodied AI security: LLM vulnerabilities, CPS flaws, or something else?](https://www.sciencedirect.com/science/article/pii/S266729522600022X)
+    - Boyang Ma, <u>Hechuan Guo</u>, Peizhuo Lv, Minghui Xu, Xuelong Dai, Yechao Zhang, Yijun Yang, Yue Zhang*
+    - High-Confidence Computing, 2026/06
+
 - [PIR-DSN: A Decentralized Storage Network Supporting Private Information Retrieval](https://arxiv.org/pdf/2512.07189)
     - Jiahao Zhang, Minghui Xu*, <u>Hechuan Guo</u>, Xiuzhen Cheng
     - IEEE International Conference on Computer Communications (INFOCOM), Tokyo, Japan, 2026/05
