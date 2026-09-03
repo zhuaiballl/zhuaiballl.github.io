@@ -81,6 +81,19 @@ title: "Hechuan Guo"
   - IEEE Transactions on Computers, 2022/02
 
 ---
+## Professional Service
+
+### Technical Program Committee
+
+- Web Chair: IEEE ICMC'24
+- Track Chair: IEEE ICMC'24
+- Member: IEEE MSN'25, IEEE ICDM'26
+
+### Reviewer
+
+- IEEE TIFS, IEEE TC, IEEE TCOM, IEEE IC, WWW, Computer Communications, Scientific Reports, Cluster Computing, P2P Networking & Applications
+
+---
 ## 🏆 Contest Experience & Prizes
 
 - 2024 One 🏅 Golden Prize and three 🥈 Silver Prizes in International/China Collegiate Programming Contest Regional Contests (Coach)
@@ -92,6 +105,8 @@ title: "Hechuan Guo"
 [Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl) 
 
 [ICPC **(ICPC World Finalist&Regional Champion)**](https://icpc.global/ICPCID/2E9RAMPG2O1V) | [CCPC](https://ccpc.io/post/92)
+
+
 
 ---
 ## 📊 GitHub Stats:
