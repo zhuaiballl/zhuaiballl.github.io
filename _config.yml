@@ -20,9 +20,9 @@
 
 title: Hechuan Guo
 email: hcguo@sdu.edu.cn
-description:
+description: Postdoc at Shandong University, working on blockchain, decentralized storage, and LLM security.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zhuaiballl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HechuanGuo
 github_username:  zhuaiballl
 
@@ -30,6 +30,7 @@ github_username:  zhuaiballl
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

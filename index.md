@@ -6,11 +6,28 @@ title: "Hechuan Guo"
 ## Hi there 👋 I'm Hechuan Guo, aka zhuaiballl
 
 - 🔭 I’m currently working on blockchain research & development
-- 🎓 I've Graduated from Shandong University
-- 🍚 I'm serving as a postdoc at Shandong University
+- 🎓 I received my Ph.D. from Shandong University
+- 🍚 I am a postdoc at Shandong University
+
+<div class="academic-links">
+  <a href="https://scholar.google.com/citations?user=q5LuQukAAAAJ">Google Scholar</a>
+  <a href="https://orcid.org/0000-0003-0397-1382">ORCID</a>
+  <a href="https://dblp.org/pid/278/2738.html">DBLP</a>
+</div>
 
 ---
 ## Research Interests
+
+### LLM & Agent Security
+
+- MCP Security
+- Embodied AI Security
+- Human Factors in Agent Security
+
+### Decentralized Storage Network
+
+- Proof of Storage
+- Data Provenance
 
 ### Blockchain
 
@@ -18,14 +35,30 @@ title: "Hechuan Guo"
 - Blockchain + IoT
 - Blockchain-based File Systems
 
-### Decentralized Storage Network
+---
+## 🏆 Competitive Programming
 
-- Proof of Storage
-- Data Provenance
+<div class="cp-highlights">
+  <div class="cp-card">
+    <div class="cp-card-title">2× ICPC World Finalist</div>
+    <div class="cp-card-sub">2017 · 2019</div>
+  </div>
+  <div class="cp-card">
+    <div class="cp-card-title">ICPC Regional Champion</div>
+    <div class="cp-card-sub">🥇 1st Place &amp; Multiple Regional Gold Medals</div>
+  </div>
+  <div class="cp-card">
+    <div class="cp-card-title">ICPC/CCPC Coach</div>
+    <div class="cp-card-sub">🏅 1 Gold + 🥈 3 Silvers in 2024 Fall Regionals</div>
+  </div>
+</div>
 
-### LLM Security
+[Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl) · [ICPC Profile](https://icpc.global/ICPCID/2E9RAMPG2O1V) · [CCPC](https://ccpc.io/post/92)
 
-- MCP Security
+### Other Prizes
+
+- 2023.12 Third prize in the 2nd CCF & ATEC College Student Blockchain Security and Innovative Application Contest
+- 2022.07 Second prize in Filecoin China Hackathon with the demo project "Git with Filecoin". [[Twitter](https://x.com/Filecoin/status/1554491609668100098?s=20)]
 
 ---
 ## Selected Publications
@@ -94,28 +127,18 @@ title: "Hechuan Guo"
 - IEEE TIFS, IEEE TC, IEEE TCOM, IEEE IC, WWW, Computer Communications, Scientific Reports, Cluster Computing, P2P Networking & Applications
 
 ---
-## 🏆 Contest Experience & Prizes
+## 📊 GitHub Stats
 
-- 2024 One 🏅 Golden Prize and three 🥈 Silver Prizes in International/China Collegiate Programming Contest Regional Contests (Coach)
-
-- 2023.12 Third prize in the 2nd CCF & ATEC College Student Blockchain Security and Innovative Application Contest
-
-- 2022.07 My demo project "Git with Filecoin" won the second prize in Filecoin China Hackathon. [[Twitter](https://x.com/Filecoin/status/1554491609668100098?s=20)]
-
-[Competitive Programming Hall of Fame](https://cphof.org/profile/topcoder:zhuaiballl) 
-
-[ICPC **(ICPC World Finalist&Regional Champion)**](https://icpc.global/ICPCID/2E9RAMPG2O1V) | [CCPC](https://ccpc.io/post/92)
-
-
+<div class="github-stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuaiballl&amp;theme=solarized_dark" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhuaiballl&amp;theme=solarized_dark" alt="Most committed languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuaiballl&amp;theme=solarized_dark" alt="Profile details">
+</div>
 
 ---
-## 📊 GitHub Stats:
-![zhuaiballl github stats](https://github-readme-stats.vercel.app/api?username=zhuaiballl&theme=radical&show_icons=true&count_private=true)
+## 📧 Contact Me
 
-![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zhuaiballl&theme=solarized_dark)
-![zhuaiballl Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zhuaiballl&theme=solarized_dark)
-![zhuaiballl Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuaiballl&theme=solarized_dark)
-
----
-## 📧 Contact Me:
-hcguo@sdu.edu.cn
+<div class="contact-email">
+  <a href="mailto:hcguo@sdu.edu.cn"><i class="fa fa-envelope"></i> hcguo@sdu.edu.cn</a>
+  <span class="wechat" title="WeChat ID"><i class="fa fa-weixin"></i> zhuaiballl</span>
+</div>
