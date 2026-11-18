@@ -65,6 +65,14 @@ title: "Hechuan Guo"
 
 ### 2026
 
+- [Achieving Practical BFT Consensus in Communication-Constrained Wireless Networks](https://ieeexplore.ieee.org/document/11793867)
+    - Shuo Liu, <u>Hechuan Guo</u>, Guangyong Shang, Zhen Ma, Jiezhi Chen, Yuezhou Zheng
+    - IEEE Transactions on Networking, 2026/11
+
+- [Toward Practical Asynchronous BFT Consensus in Communication-Constrained Wireless Networks](https://ieeexplore.ieee.org/document/11770269)
+    - Shuo Liu, <u>Hechuan Guo*</u>, Jiezhi Chen, Minghui Xu, Xiuzhen Cheng, Zhen Ma
+    - IEEE Journal on Selected Areas in Communications, 2026/11
+
 - [What breaks embodied AI security: LLM vulnerabilities, CPS flaws, or something else?](https://www.sciencedirect.com/science/article/pii/S266729522600022X)
     - Boyang Ma, <u>Hechuan Guo</u>, Peizhuo Lv, Minghui Xu, Xuelong Dai, Yechao Zhang, Yijun Yang, Yue Zhang*
     - High-Confidence Computing, 2026/06
